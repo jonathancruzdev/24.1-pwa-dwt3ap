@@ -3,4 +3,4 @@
 Material de Clase
 
 ## Clases
-- [Clase 08](clase-08)
+- [Clase 08](tree/master/clase-08)
