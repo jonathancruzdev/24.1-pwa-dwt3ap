@@ -3,4 +3,4 @@
 Material de Clase
 
 ## Clases
-- [Clase 08](tree/master/Clase-08/)
+- [Clase 08](https://github.com/jonathancruzdev/24.1-pwa-dwt3ap/tree/master/Clase-08)
