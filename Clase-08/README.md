@@ -22,3 +22,7 @@
         console.error(error);
     })
 ```
+
+📚 Recursos
+
+[API dummyjson](https://dummyjson.com/)
